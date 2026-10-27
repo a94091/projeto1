@@ -11,10 +11,6 @@ def get_float(msg):
     x = float(x)
     return x
 
-<<<<<<< HEAD
-    
-=======
 def get_string(msg):
     s = input(msg)
     return s
->>>>>>> 53d668f04de8771d5eaf6aa14252c3764d973d95
